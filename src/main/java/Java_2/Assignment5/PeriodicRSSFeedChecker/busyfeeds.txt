@@ -1,0 +1,36 @@
+FOR DEMO
+
+https://lorem-rss.herokuapp.com/feed?unit=second&interval=30
+http://lorem-rss.herokuapp.com/feed
+https://www.cbc.ca/webfeed/rss/rss-topstories
+
+
+
+
+
+
+https://feeds.bbci.co.uk/news/world/rss.xml
+https://www.cbc.ca/webfeed/rss/rss-world
+https://www.cbc.ca/webfeed/rss/rss-politics
+https://www.cbc.ca/webfeed/rss/rss-arts
+
+
+https://feeds.washingtonpost.com/rss/world
+https://www.cbc.ca/webfeed/rss/rss-topstories
+
+
+
+
+
+30 seconds
+
+https://lorem-rss.herokuapp.com/feed?unit=second&interval=30
+
+
+ONE min
+
+http://lorem-rss.herokuapp.com/feed
+
+
+
+
